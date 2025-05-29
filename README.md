@@ -14,4 +14,4 @@ MKS42C UART 3.3v is not needed in this configuration.
 12v +- to the pwer input of the MKS42C ( there are on the right of the 6 Pin connector.
 
 </br></br>
-For different ESP32 boards pelase adjust the platform.ini file
+For different ESP32 boards it would require some changes. platform.ini and also some stuff related to UART issues.
