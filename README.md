@@ -19,5 +19,5 @@ ESP TX to MKS42C RX
 MKS42C UART GND to the 12v GND.
 MKS42C UART 3.3v is not needed in this configuration.
 
-12v +- to the pwer input of the MKS42C ( there are on the right of the 6 Pin connector.
+12v +- power input of the MKS42C are on the right of the 6 Pin connector.
 
