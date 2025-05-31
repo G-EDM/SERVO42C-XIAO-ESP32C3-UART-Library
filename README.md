@@ -3,6 +3,10 @@
 A small library to control the makerbase servo42c via UART from a XIAO ESP32C3. Written in cpp for vstudio with platform.io. For other ESP32 boards the platform.ini file needs to be changed to fit the board.
 
 </br></br>
+# Warning
+This library does not support the v1.0 version and is written for the v1.1 version of the 42C board. It looks like all the raw driver PCBs that are sold without stepper motor are the v1.0 version while the ones with stepper motor are more likely to be the v1.1.
+
+</br></br>
 # Other ESP boards
 For other board please start with this version:
 https://github.com/G-EDM/SERVO42C-ESP32WROOM32-UART-Library
